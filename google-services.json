@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824252140204",
+    "firebase_url": "https://sachin-1891a.firebaseio.com",
+    "project_id": "sachin-1891a",
+    "storage_bucket": "sachin-1891a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824252140204:android:7add2c55764156bfd32d09",
+        "android_client_info": {
+          "package_name": "com.example.sachin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824252140204-uevob4q52elncic5b2kbmb9tb8abeacd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWE2fVhaTrEGZUIqGk8mkPOprBeMBM3Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824252140204-uevob4q52elncic5b2kbmb9tb8abeacd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
